@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WernervanderMerwe
 - 👀 I’m interested in ... Front End Development
-- 🌱 I’m currently learning ... Javascript
+- 🌱 I’m currently learning ... Javascript and ReactJS
 - 💞️ I’m looking to collaborate on ... Nothing at the moment
 - 📫 How to reach me ... Only on here for now
 
