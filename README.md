@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @WernervanderMerwe
 - 👀 I’m interested in ... Fullstack Development
-- 🌱 I’m currently learning ... JavaScript and Vue.js
-- 💞️ I’m looking to collaborate on ... Nothing at the moment
-- 📫 How to reach me ... Only on here for now
-
-<!---
-WernervanderMerwe/WernervanderMerwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning ... JavaScript, Vue.js and React.
+- 📫 How to reach me ... wernervandermerwe@rocketmail.com
