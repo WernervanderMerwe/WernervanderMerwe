@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @WernervanderMerwe
 - 👀 I’m interested in ... Fullstack Development
-- 🌱 I’m currently learning ... JavaScript, Vue.js and React.
+- 🌱 I’m currently working in ... Typescript, Angular, Bootstrap, Sass.
+- 🎯 I'm looking to expand my Frontend Development into fullstack development starting with Node and express.
 - 📫 How to reach me ... wernervandermerwe@rocketmail.com
