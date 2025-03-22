@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WernervanderMerwe
 - 👀 I’m interested in ... Fullstack Development
-- 🌱 I’m currently working in ... Typescript, Angular, Bootstrap, Sass.
-- 🎯 I'm looking to expand my Frontend Development into fullstack development starting with Node and express.
+- 🌱 I’m currently working in ... Typescript, Angular, Bootstrap, Sass, SQL Server and PostgreSQL, Java, Postman, MAMP.
+- 🎯 I'm looking to expand my Fullstack development into Mastering more of BE, Java EE, JPADao, Entitymanager etc.
 - 📫 How to reach me ... wernervandermerwe@rocketmail.com
