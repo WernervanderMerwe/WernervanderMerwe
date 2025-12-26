@@ -3,44 +3,62 @@
 
 ## 🚵‍♂️ About Me
 
-Full-stack developer | Enduro cyclist | Degenerate Online gamer  
-📍 Based in Durban, South Africa  
+Fullstack Developer at a South African retail courier company | Enduro cyclist | Degenerate Online gamer
+📍 Based in South Africa
 
-I live at the intersection of code and adrenaline - equally passionate about building robust applications and conquering mountain biking trails. When I'm not debugging, you'll find me shredding singletrack, camping, hiking or competing in online gaming arenas.
+I started as a civil engineering technician, working five years in construction before finishing my studies. I loved the engineering problem-solving, but not the rigid site conditions. Software gave me that same logical challenge — with the freedom to work from anywhere.
+
+When I'm not debugging, you'll find me shredding singletrack, camping, hiking or competing in online gaming arenas.
+
+## 🚀 Live Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Budget App** | Privacy-first personal finance tracker with encrypted data | [budget.wernerbuildsapps.co.za](https://budget.wernerbuildsapps.co.za) |
+| **Portfolio** | Personal landing page & project showcase | [wernerbuildsapps.co.za](https://www.wernerbuildsapps.co.za) |
 
 ## 💻 Tech Stack
 
 ### Frontend
-- **Angular** (Primary framework with NGB/NGX components)
+- **Vue/Nuxt** (Primary personal stack with Nuxt UI)
+- **Angular** (Enterprise framework with NGB/NGX components)
 - **Styling**: SCSS, Bootstrap, TailwindCSS, MUI
 - **Mapping**: Leaflet
 - **Charts**: amCharts
-- **Hobbying**: Vue/Nuxt
 - **Past Experience**: React
 
 ### Backend & Databases
-- **Java**: EE with JPA DAO
-- **Databases**: MS SQL, PostgreSQL (DBeaver, SSMS)
+- **Java EE**: JPA/Hibernate, Apache POI
+- **Node.js**
+- **Supabase**: Auth, Postgres, Realtime
+- **Prisma**: Type-safe ORM
+- **Databases**: PostgreSQL, MSSQL (DBeaver, SSMS)
 - **API Tools**: Postman, MAMP
 
-### Tools
-- VS Code
+### Platform & Deployment
+- **Cloudflare**: Pages, Workers, DNS
+- **Linux** / **Windows**
 - Electron
-- NGB/NGX libraries
 - RxJS
 
+### Dev Tools
+- IntelliJ IDEA
+- VS Code
+- DBeaver
+- SourceTree
+- Postman
+
 ## 🌱 Current Focus
+- Building privacy-first web applications
+- Exploring Cloudflare's edge ecosystem
 - Mastering Vue/Nuxt fullstack development
-- Exploring advanced backend patterns
-- Optimizing my development workflow
 
 ## 🎮 Beyond Code
 - Online gaming
 - Enduro mountain biking
 - Hiking / Camping
 - Offroading
-- Tech meetups
 
 ## 📫 Let's Connect
-Check out my projects on GitHub: [[Email](wernervandermerwe@rocketmail.com)]  
+Check out my projects: [wernerbuildsapps.co.za](https://www.wernerbuildsapps.co.za)
 Always open to talk about tech, baiesukkels, or games!
